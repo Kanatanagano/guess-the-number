@@ -23,5 +23,4 @@ def guessTheNumber():
             print("Incorrect. please try again.")
     else:
         print(f"the correct answer was {targetNumber}.")
-    3
 guessTheNumber()
